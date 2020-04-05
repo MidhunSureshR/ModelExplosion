@@ -2,6 +2,7 @@
 
 Explode 3d objects on the browser using THREE.js and GLSL shaders.
 Link to the original project can be found [here](https://github.com/akella/ExplodingObjects).
+However, the code contained there is wrong and the working transpiled-minified javascript files do not match with their source files.
 
 
 ## Credits
