@@ -13,7 +13,7 @@
     "@babel/preset-env": "^7.8.7",
     "browserify-shader": "^0.1.2",
     "glslify": "^7.0.0",
-    "three": "^0.125.0"
+    "three": "^0.137.0"
   },
   "browserify": {
     "transform": [
